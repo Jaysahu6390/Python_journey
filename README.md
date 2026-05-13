@@ -10,7 +10,6 @@ What You'll Find Here
 - Practice challenges
 - Notes and learning resources
 
-Goal
-To improve my programming skills and build real-world projects using Python.
+Goal : To improve my programming skills and build real-world projects using Python.
 
 Learning every day, one line of code at a time 
